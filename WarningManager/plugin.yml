@@ -1,0 +1,5 @@
+name: WarningManager
+author: HWABAEG
+main: WarningManager\WarningManager
+version: B1
+api: [4.0.0]
